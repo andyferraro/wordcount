@@ -18,7 +18,7 @@ import org.apache.hadoop.util.ToolRunner;
 
 /**
  *
- * @author andre
+ * @author andyferraro
  */
 public class WordCount extends Configured implements Tool{
 	

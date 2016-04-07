@@ -13,7 +13,7 @@ import org.apache.hadoop.mapreduce.Reducer;
 
 /**
  *
- * @author andre
+ * @author andyferraro
  */
 public class WordCountReducer extends Reducer<Text, IntWritable, Text, IntWritable>{
 
